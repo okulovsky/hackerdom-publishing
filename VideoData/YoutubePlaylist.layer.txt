@@ -1,0 +1,3 @@
+Tuto layer for YoutubePlaylist Version 1
+
+{"Records":[{"Data":{"PlaylistId":"PLU-TUGRFxOHgxyJSpAYiJaheMwkumGUTK","PlaylistTitle":"Hackerdom-01 Вводная лекция"},"Guid":"1840a7ac-4293-4b8b-a4ea-9359608a9634"},{"Data":{"PlaylistId":"PLU-TUGRFxOHjDvu4NHrpFdpYI20-zOG2-","PlaylistTitle":"Hackerdom-02 Криптография"},"Guid":"ceef6990-465c-480a-8464-92d37d76709f"}]}

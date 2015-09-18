@@ -1,0 +1,3 @@
+Tuto layer for ExpandingData Version 1
+
+{"Records":[{"Data":{"IsExpanded":true},"Guid":"a7b2f40e-1e7d-4cde-b2e6-d082f4823c47"},{"Data":{"IsExpanded":false},"Guid":"1840a7ac-4293-4b8b-a4ea-9359608a9634"},{"Data":{"IsExpanded":false},"Guid":"ceef6990-465c-480a-8464-92d37d76709f"}]}
